@@ -1,11 +1,13 @@
 about:
-  description: Simple implementation of OpenAI CLIP model in PyTorch.
+  description:
+  |
+    Simple implementation of OpenAI CLIP model in PyTorch.
   license: MIT
   homepage: 
   head: b91c86b
   archived: false
   latestVersion: v1.0.0
-  collectedAt: 2026-09-03T05:10:25Z
+  collectedAt: 2026-09-03T22:37:15Z
 timeline:
   created: 2021-04-07
   lastCommit: 2025-10-18
@@ -21,7 +23,7 @@ popularity:
 language:
   Jupyter Notebook: 80454
   Python: 13332
-totalLine: 93786
+totalBytes: 93786
 recent:
   last30d:
     since: 2026-08-04
